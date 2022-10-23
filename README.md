@@ -1,10 +1,10 @@
 # dps-laboratory2
 
-g++ tests.cpp -lgtest -lpthread -o test.out
-./test.out
-[==========] Running 6 tests from 3 test suites.
-[----------] Global test environment set-up.
-[----------] 2 tests from wrapAddFunctionTest
+#g++ tests.cpp -lgtest -lpthread -o test.out
+#./test.out
+#[==========] Running 6 tests from 3 test suites.
+#[----------] Global test environment set-up.
+#[----------] 2 tests from wrapAddFunctionTest
 [ RUN      ] wrapAddFunctionTest.NonWrappingNums
 [       OK ] wrapAddFunctionTest.NonWrappingNums (0 ms)
 [ RUN      ] wrapAddFunctionTest.WrappingNums
